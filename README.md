@@ -3,7 +3,7 @@
 
 - My main language is JavaScript
 
-- 🌱 I’m currently practicing **Next.js, TypeScript, ReactJS, & Tailwind CSS**
+- 🌱 I’m currently practicing **Next.js, ReactJS, TypeScript, & Tailwind CSS**
 
 - 📫 Email me at **sam.p.terence@gmail.com**
 
