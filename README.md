@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi I'm Terence</h1>
 <h3 align="center">A Full-Stack developer from The S.F. Bay Area</h3>
 
-- My main language is [JavaScript]
+- My main language is JavaScript
 
 - 🌱 I’m currently practicing **Next.js, TypeScript, ReactJS, & Tailwind CSS**
 
