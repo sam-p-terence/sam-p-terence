@@ -3,9 +3,9 @@
 
 - My main language is JavaScript
 
-- 🌱 I’m currently practicing **Next.js, ReactJS, TypeScript, & Tailwind CSS**
+- 🌱 I’m currently practicing **Next.JS, React.JS, TypeScript, & Tailwind CSS**
 
-- 📫 Email me at **sam.p.terence@gmail.com**
+- 📫 Email me at **sam.p.terence@gmail.com** and check out my Linktree https://linktr.ee/sam.p.terence
 
 - 📄 Check out my [Resume](https://docs.google.com/document/d/1T_rkT_zdLVGpRKEW0Btn477g4DDwuCVQehWEla88ByA/edit?usp=sharing)
 
