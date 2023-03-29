@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently practicing **Next.JS, React.JS, TypeScript, & Tailwind CSS**
 
-- 📫 Email me at **sam.p.terence@gmail.com** and check out my Linktree https://linktr.ee/sam.p.terence
+- 📫 Email me at **sam.p.terence@gmail.com** and view my Linktree https://linktr.ee/sam.p.terence
 
 - 📄 Check out my [Resume](https://docs.google.com/document/d/1T_rkT_zdLVGpRKEW0Btn477g4DDwuCVQehWEla88ByA/edit?usp=sharing)
 
